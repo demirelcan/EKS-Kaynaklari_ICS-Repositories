@@ -37,11 +37,34 @@ Ekosistemler/Ecosystems
 --------|-----------------------------------------------|-------------------------------------------------------------|
 Küresel |CCI-ES                                         |https://www.cci-es.org/                                      | 
 Küresel |OT-CSA                                         |https://otcsalliance.org/                                    |
-Küresel |ISA Global Cybersecurity Alliance.             |https://isaautomation.isa.org/cybersecurity-alliance/        |        
+Küresel |ISA Global Cybersecurity Alliance              |https://isaautomation.isa.org/cybersecurity-alliance/        |        
 Küresel |Charter of Trust                               |https://www.charteroftrust.com/                              |
 
 
+Standartlar & Kılavuzlar
 
+Kuruluş |Standart                                               |Bağlantı                                                                                         |
+--------|-------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+NIST    |Guide to Industrial Control Systems (ICS) Security     |https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r2.pdf                       | 
+NIST    |Guidelines for Smart Grid Cybersecurity                |https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7628r1.pdf                                     |
+TSA     |Pipeline Security Guidelines                           |https://www.tsa.gov/sites/default/files/pipeline_security_guidelines.pdf                         |
+IAEA    |Computer Security at Nuclear Facilities                |https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1527_web.pdf                                   |
+ACRP    |Guidebook on Best Practices for Airport Cybersecurity  |http://trbcybersecurity.erau.edu/resources/acrp_rpt_140.pdf                                      |
+CFATS   |Risk-Based Performance Standards Guidance              |https://www.dhs.gov/xlibrary/assets/chemsec_cfats_riskbased_performance_standards.pdf            |
+US-CERT |Cyber Security Procurement Language for Control Systems|https://us-cert.cisa.gov/sites/default/files/documents/Procurement_Language_Rev4_100809_S508C.pdf|
+AWWA    |Water Sector Cybersecurity Guidance                    |https://www.awwa.org/Portals/0/AWWA/ETS/Resources/AWWACybersecurityGuidance2019.pdf?ver=2019-09-09-111949-960|
+NIST    |Cybersecurity Framework Manufacturing Profile          |https://www.nist.gov/publications/cybersecurity-framework-manufacturing-profile-0                |
+
+
+
+ISACS
+
+
+E-Learning
+
+
+
+Tatbikatlar
 
 
 
