@@ -9,7 +9,7 @@ Topluluklar/Communities
 --------|--------------------------------------|--------------------|-------------  |----------------------------|
 Küresel |BEER-ISAC                             |N/A                 |@BEERISAC      |N/A                         |
 Türkiye |Türkiye EKS SiberGüvenlik Ekosistemi  |eksguvenligi.org    |@eks_ekosistem |https://t.me/eksguvenligi   |
-Rusya   |Rusya EKS Siber Güvenlik Ekosistemi   |www.ruscadasec.com  |               |https://t.me/ruscadasecnews |
+Rusya   |Rusya EKS Siber Güvenlik Ekosistemi   |ruscadasec.com      |N/A            |https://t.me/ruscadasecnews |
 Brezilya|Brezilya EKS Siber Güvenlik Ekosistemi|scadasecbr.org      |N/A            |https://t.me/scadasecbr     |
 
 
@@ -31,10 +31,20 @@ Singapur|ICS Cyber Security Conference                  |https://www.icscybersec
 Değişken|CIPRE                                          |https://www.cipre-expo.com/                   |
 --------|-----------------------------------------------|----------------------------------------------|
 
+Ekosistemler/Ecosystems
 
-OT-SCA
-Global ISA
-CCI-ES
+Ülke    |Ekosistem                                      |Web Sayfası                                                  |
+--------|-----------------------------------------------|-------------------------------------------------------------|
+Küresel |CCI-ES                                         |https://www.cci-es.org/                                      | 
+Küresel |OT-CSA                                         |https://otcsalliance.org/                                    |
+Küresel |ISA Global Cybersecurity Alliance.             |https://isaautomation.isa.org/cybersecurity-alliance/        |        
+Küresel |Charter of Trust                               |https://www.charteroftrust.com/                              |
+
+
+
+
+
+
 EE-ISAC
 ICS Village
 IOT Village
@@ -52,11 +62,8 @@ Kategori    |Kitap Adı                                      |Referans          
 ------------|-----------------------------------------------|----------------------------------------------|
 
 
-Saldırı Araçları/Offensive Tools
 
-Savunma Araçları/Defensensive Tools
 
-Konferanslar/Conferences
 
 Eğitimler/Trainings
 
@@ -79,6 +86,10 @@ Araştırma Enstitüleri/Research Institues
 Devlet Destekli Araştırma Projeleri/Goverment Funded Research Projects
 
 Ticari Ürünler/Products
+
+Saldırı Araçları/Offensive Tools
+
+Savunma Araçları/Defensensive Tools
 
 Referanslar/Kaynaklar
 https://scadahacker.com/library/index.html
