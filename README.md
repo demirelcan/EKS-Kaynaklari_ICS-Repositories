@@ -3,14 +3,14 @@
 
 ## Topluluklar/Communities
 
-Ülke    |Açıklama                              |Web Sayfası         |Twitter        |Kanallar                    |
---------|--------------------------------------|--------------------|-------------  |----------------------------|
-Küresel |BEER-ISAC                             |N/A                 |@BEERISAC      |N/A                         |
-Türkiye |Türkiye EKS SiberGüvenlik Ekosistemi  |eksguvenligi.org    |@eks_ekosistem |https://t.me/eksguvenligi   |
-Rusya   |Rusya EKS Siber Güvenlik Ekosistemi   |ruscadasec.com      |N/A            |https://t.me/ruscadasecnews |
-Brezilya|Brezilya EKS Siber Güvenlik Ekosistemi|scadasecbr.org      |N/A            |https://t.me/scadasecbr     |
-Küresel |ICSVillage                            |icsvillage.com      |@ICS_Village   |N/A                         |
-
+Ülke    |Açıklama                              |Web Sayfası           |Twitter        |Kanallar                    |
+--------|--------------------------------------|----------------------|-------------  |----------------------------|
+Küresel |BEER-ISAC                             |N/A                   |@BEERISAC      |N/A                         |
+Türkiye |Türkiye EKS SiberGüvenlik Ekosistemi  |eksguvenligi.org      |@eks_ekosistem |https://t.me/eksguvenligi   |
+Rusya   |Rusya EKS Siber Güvenlik Ekosistemi   |ruscadasec.com        |N/A            |https://t.me/ruscadasecnews |
+Brezilya|Brezilya EKS Siber Güvenlik Ekosistemi|scadasecbr.org        |N/A            |https://t.me/scadasecbr     |
+Küresel |ICSVillage                            |icsvillage.com        |@ICS_Village   |N/A                         |
+Küresel |SANS ICS                              |https://ics.sans.org/ |@SANSICS       |N/A                         |
 
 
 
@@ -126,6 +126,18 @@ IAEA           |https://websso.iaea.org/login/login.fcc                         
 - [x] @Marmusha
 - [x] @timyardley
 - [x] @CloverStreetMan
+
+
+## Makaleler / Articles
+
+Organizasyon |Konu                                                        |Bağlantı                                                     |
+-------------|------------------------------------------------------------|-------------------------------------------------------------|
+SANS         |Secure Architecture for Industrial Control Systems          |https://www.sans.org/reading-room/whitepapers/ICS/secure-architecture-industrial-control-systems-36327|
+SANS         |The Industrial Control System Cyber Kill Chain              |https://www.sans.org/reading-room/whitepapers/ICS/industrial-control-system-cyber-kill-chain-36297
+
+
+
+
 
 
 ## Düzenlenme Aşamasında / In Progress
