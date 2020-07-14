@@ -80,8 +80,10 @@ ONG-ISAC     |Oil and Natural Gas Information Sharing and Analysis Center |https
 
 ## Ücretsiz Eğitimler / Free Trainings
 
-Kategori    |Kılavuz                                        |Referans                                      |
-------------|-----------------------------------------------|----------------------------------------------|
+Organizasyon   |web Sayfası                                                           |
+---------------|----------------------------------------------------------------------|
+ICS-CERT       |https://us-cert.cisa.gov/ics/Training-Available-Through-ICS-CERT      |
+IAEA           |https://websso.iaea.org/login/login.fcc                               |
 
 
 
@@ -98,10 +100,12 @@ Kategori    |Kitap Adı                                      |Referans          
 - [x] @digitalbond
 - [x] @PatrickCMiller
 - [x] @RobertMLee
-
-
-
-
+- [x] @SarahFluchs
+- [x] @SinclairKoelemi
+- [x] @SCADAhacker
+- [x] @Marmusha
+- [x] @timyardley
+- [x] @CloverStreetMan
 
 
 ## Düzenlenme Aşamasında / In Progress
