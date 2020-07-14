@@ -102,6 +102,7 @@ IAEA           |https://websso.iaea.org/login/login.fcc                         
 - [x] GISCP (Global Industrial Cyber Security Professional)
 - [x] CSSA (Certificate SCADA Security Architect)
 - [x] GRID (GIAC Response and Industrial Defense)
+- [x] Certified Operational Technology Cybersecurity Professional (TÜV)
 - [x] ISA/IEC 62443 Cybersecurity Fundamentals Specialist
 - [x] ISA/IEC 62443 Cybersecurity Risk Assessment Specialist
 - [x] ISA/IEC 62443 Cybersecurity Design Specialist
