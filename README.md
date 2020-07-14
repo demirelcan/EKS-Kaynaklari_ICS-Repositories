@@ -1,9 +1,9 @@
 # EKS-Kaynaklari/ICS-Repositories
 
-Kaynaklar/Resources
 
 
-Topluluklar/Communities
+
+##Topluluklar/Communities
 
 Ülke    |Açıklama                              |Web Sayfası         |Twitter        |Kanallar                    |
 --------|--------------------------------------|--------------------|-------------  |----------------------------|
@@ -14,7 +14,7 @@ Brezilya|Brezilya EKS Siber Güvenlik Ekosistemi|scadasecbr.org      |N/A       
 
 
 
-Konferanslar/Conferences
+##Konferanslar/Conferences
 
 Ülke    |Konferans                                      |Web Sayfası                                   |
 --------|-----------------------------------------------|----------------------------------------------|
@@ -31,7 +31,7 @@ Singapur|ICS Cyber Security Conference                  |https://www.icscybersec
 Değişken|CIPRE                                          |https://www.cipre-expo.com/                   |
 --------|-----------------------------------------------|----------------------------------------------|
 
-Ekosistemler/Ecosystems
+##Ekosistemler/Ecosystems
 
 Ülke    |Ekosistem                                      |Web Sayfası                                                  |
 --------|-----------------------------------------------|-------------------------------------------------------------|
@@ -41,7 +41,7 @@ Küresel |ISA Global Cybersecurity Alliance              |https://isaautomation.
 Küresel |Charter of Trust                               |https://www.charteroftrust.com/                              |
 
 
-Standartlar & Kılavuzlar
+##Standartlar & Kılavuzlar / Standards & Guidelines
 
 Kuruluş |Standart                                               |Bağlantı                                                                                         |
 --------|-------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -53,7 +53,12 @@ ACRP    |Guidebook on Best Practices for Airport Cybersecurity  |http://trbcyber
 CFATS   |Risk-Based Performance Standards Guidance              |https://www.dhs.gov/xlibrary/assets/chemsec_cfats_riskbased_performance_standards.pdf            |
 US-CERT |Cyber Security Procurement Language for Control Systems|https://us-cert.cisa.gov/sites/default/files/documents/Procurement_Language_Rev4_100809_S508C.pdf|
 AWWA    |Water Sector Cybersecurity Guidance                    |https://www.awwa.org/Portals/0/AWWA/ETS/Resources/AWWACybersecurityGuidance2019.pdf?ver=2019-09-09-111949-960|
-NIST    |Cybersecurity Framework Manufacturing Profile          |https://www.nist.gov/publications/cybersecurity-framework-manufacturing-profile-0                |
+NIST    |Cybersecurity Framework Manufacturing Profile          |https://www.nist.gov/publications/cybersecurity-framework-manufacturing-profile-0              |
+NIST    |Energy Sector Asset Management                         | https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-23.pdf                     |
+Energy Gov|Electritcy Subsector Cybersecurity Capability Maturity Model | https://www.energy.gov/sites/prod/files/2014/02/f7/ES-C2M2-v1-1-Feb2014.pdf           |
+Energy Gov| Oil and Natural Gas Subsector Cybersecurity Capability Maturity Model | https://www.energy.gov/sites/prod/files/2014/03/f13/ONG-C2M2-v1-1_cor.pdf   |
+
+
 
 
 
