@@ -57,7 +57,11 @@ NIST    |Cybersecurity Framework Manufacturing Profile          |https://www.nis
 NIST    |Energy Sector Asset Management                         | https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-23.pdf                     |
 Energy Gov|Electritcy Subsector Cybersecurity Capability Maturity Model | https://www.energy.gov/sites/prod/files/2014/02/f7/ES-C2M2-v1-1-Feb2014.pdf           |
 Energy Gov| Oil and Natural Gas Subsector Cybersecurity Capability Maturity Model | https://www.energy.gov/sites/prod/files/2014/03/f13/ONG-C2M2-v1-1_cor.pdf   |
-NIST | Behavioral Anomaly Detection in ICS | https://csrc.nist.gov/publications/detail/nistir/8219/draft
+NIST | Behavioral Anomaly Detection in ICS | https://csrc.nist.gov/publications/detail/nistir/8219/draft|
+ICS- CERT | Seven Strategies to Defend ICSs | https://us-cert.cisa.gov/sites/default/files/documents/Seven%20Steps%20to%20Effectively%20Defend%20Industrial%20Control%20Systems_S508C.pdf |
+ICS-CERT | ICS Defense-in-Depth Strategies | https://us-cert.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf|
+ICS-CERT | ICS-CERT Recommended Practices |https://us-cert.cisa.gov/ics/Recommended-Practices|
+
 
 
 
