@@ -63,7 +63,7 @@ NIST | Behavioral Anomaly Detection in ICS | https://csrc.nist.gov/publications/
 
 ## Tatbikatlar/Exercises
 
-Ülke          |Ekosistem                                      |Web Sayfası                                                  |
+Ülke          |Tatbikat                                       |Web Sayfası                                                  |
 --------------|-----------------------------------------------|-------------------------------------------------------------|
 Kuzey Amerika |GridEX                                         |https://www.nerc.com/pa/CI/CIPOutreach/Pages/GridEx.aspx     | 
 Küresel       |Locked Shields                                 |https://ccdcoe.org/exercises/locked-shields/                 | 
@@ -73,7 +73,7 @@ Küresel       |Locked Shields                                 |https://ccdcoe.o
 
 ## Bilgi Paylaşım Toplulukları / ISACs
 
-Ülke/Bölge   |Açıklama                                                    |Web Sayfası                                                  |
+Topluluk     |Açıklama                                                    |Web Sayfası                                                  |
 -------------|------------------------------------------------------------|-------------------------------------------------------------|
 E-ISAC       |Electricity Information Sharing and Analysis Center         |https://www.eisac.com/                                       | 
 EE-ISAC      |European Energy Information Sharing & Analysis Centre       |https://www.ee-isac.eu/                                      | 
