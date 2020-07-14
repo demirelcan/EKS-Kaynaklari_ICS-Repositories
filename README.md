@@ -11,7 +11,7 @@ Rusya   |Rusya EKS Siber Güvenlik Ekosistemi   |ruscadasec.com        |N/A     
 Brezilya|Brezilya EKS Siber Güvenlik Ekosistemi|scadasecbr.org        |N/A            |https://t.me/scadasecbr     |
 Küresel |ICSVillage                            |icsvillage.com        |@ICS_Village   |N/A                         |
 Küresel |SANS ICS                              |ics.sans.org          |@SANSICS       |N/A                         |
-Küresel |SCADASEC                              |http://scadamag.infracritical.com/    |https://groups.io/g/scadasec|
+Küresel |SCADASEC                              |scadamag.infracritical.com/ | N/A    |https://groups.io/g/scadasec|
 
 
 ## Konferanslar/Conferences
