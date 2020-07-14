@@ -1,4 +1,4 @@
-# EKS-Kaynaklari/ICS-Repositories
+# EKS-Kaynakları/ICS-Repositories
 
 
 ## Topluluklar/Communities
