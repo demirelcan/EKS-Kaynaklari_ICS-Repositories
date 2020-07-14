@@ -28,7 +28,7 @@ Amerika |S4xEvents                                      |https://s4xevents.com/ 
 Amerika |ICS Cyber Security Conference                  |https://www.icscybersecurityconference.com/            |
 Singapur|ICS Cyber Security Conference                  |https://www.icscybersecurityconference.com/            |
 Değişken|CIPRE                                          |https://www.cipre-expo.com/                            |
---------|-----------------------------------------------|-------------------------------------------------------|
+
 
 ## Ekosistemler/Ecosystems
 
@@ -80,18 +80,30 @@ ONG-ISAC     |Oil and Natural Gas Information Sharing and Analysis Center |https
 
 ## Ücretsiz Eğitimler / Free Trainings
 
-Organizasyon   |web Sayfası                                                           |
+Organizasyon   |Web Sayfası                                                           |
 ---------------|----------------------------------------------------------------------|
 ICS-CERT       |https://us-cert.cisa.gov/ics/Training-Available-Through-ICS-CERT      |
 IAEA           |https://websso.iaea.org/login/login.fcc                               |
 
 
 
-
 ## Kitaplar/Books
 
-Kategori    |Kitap Adı                                      |Referans                                      |
-------------|-----------------------------------------------|----------------------------------------------|
+- [x] Industrial Network Security: Securing Critical Infrastructure Networks for Smart Grid, SCADA, and Other Industrial Control Systems
+- [x] Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions
+- [x] Applied Cyber Security and the Smart Grid: Implementing Security Controls into the Modern Power Infrastructure
+- [x] Security PHA Review for Consequence-Based Cybersecurity
+- [x] Practical Modern SCADA Protocols: DNP3, 60870.5 and Related Systems
+
+## Sertifikalar / Certificates
+- [x] GISCP (Global Industrial Cyber Security Professional)
+- [x] CSSA (Certificate SCADA Security Architect)
+- [x] GRID (GIAC Response and Industrial Defense)
+- [x] ISA/IEC 62443 Cybersecurity Fundamentals Specialist
+- [x] ISA/IEC 62443 Cybersecurity Risk Assessment Specialist
+- [x] ISA/IEC 62443 Cybersecurity Design Specialist
+- [x] ISA/IEC 62443 Cybersecurity Maintenance Specialist
+- [x] ISA/IEC 62443 Cybersecurity Expert
 
 
 ## Top 10 Twitter Hesapları / Top 10 Twitter Accounts
