@@ -61,7 +61,7 @@ NIST | Behavioral Anomaly Detection in ICS | https://csrc.nist.gov/publications/
 
 
 
-## Tatbikatlar/Exercies
+## Tatbikatlar/Exercises
 
 Ülke          |Ekosistem                                      |Web Sayfası                                                  |
 --------------|-----------------------------------------------|-------------------------------------------------------------|
