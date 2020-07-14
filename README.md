@@ -1,9 +1,7 @@
 # EKS-Kaynaklari/ICS-Repositories
 
 
-
-
-##Topluluklar/Communities
+## Topluluklar/Communities
 
 Ülke    |Açıklama                              |Web Sayfası         |Twitter        |Kanallar                    |
 --------|--------------------------------------|--------------------|-------------  |----------------------------|
@@ -11,27 +9,28 @@ Küresel |BEER-ISAC                             |N/A                 |@BEERISAC 
 Türkiye |Türkiye EKS SiberGüvenlik Ekosistemi  |eksguvenligi.org    |@eks_ekosistem |https://t.me/eksguvenligi   |
 Rusya   |Rusya EKS Siber Güvenlik Ekosistemi   |ruscadasec.com      |N/A            |https://t.me/ruscadasecnews |
 Brezilya|Brezilya EKS Siber Güvenlik Ekosistemi|scadasecbr.org      |N/A            |https://t.me/scadasecbr     |
+Küresel |ICSVillage                            |icsvillage.com      |@ICS_Village   |N/A                         |
 
 
 
-##Konferanslar/Conferences
+## Konferanslar/Conferences
 
-Ülke    |Konferans                                      |Web Sayfası                                   |
---------|-----------------------------------------------|----------------------------------------------|
-Türkiye |EKS Konferans                                  |https://www.ekskonferans.org/                 | 
-Almanya |SANS ICS Europe                                |https://www.sans.org/                         |
-Rusya   |Kaspersky Industrial Cybersecurity Conference  |https://ics.kaspersky.com/conference/         |        
-İsveç   |CS3STHLM                                       |https://cs3sthlm.se/                          |
-Belçika |BRUCON                                         |https://www.brucon.org/                       |
-Amerika |SANS ICS Summit USA                            |https://www.sans.org/                         |
-Amerika |SANS Oil & Gas Cyber Security                  |https://www.sans.org/                         |
-Amerika |S4xEvents                                      |https://s4xevents.com/                        |
-Amerika |ICS Cyber Security Conference                  |https://www.icscybersecurityconference.com/   |
-Singapur|ICS Cyber Security Conference                  |https://www.icscybersecurityconference.com/   |
-Değişken|CIPRE                                          |https://www.cipre-expo.com/                   |
---------|-----------------------------------------------|----------------------------------------------|
+Ülke    |Konferans                                      |Web Sayfası                                            |
+--------|-----------------------------------------------|-------------------------------------------------------|
+Türkiye |EKS Konferans                                  |https://www.ekskonferans.org/                          | 
+Almanya |SANS ICS Europe                                |https://www.sans.org/                                  |
+Rusya   |Kaspersky Industrial Cybersecurity Conference  |https://ics.kaspersky.com/conference/                  |        
+İsveç   |CS3STHLM                                       |https://cs3sthlm.se/                                   |
+Belçika |BRUCON                                         |https://www.brucon.org/                                |
+Amerika |SANS ICS Summit USA                            |https://www.sans.org/                                  |
+Amerika |SANS Oil & Gas Cyber Security                  |https://www.sans.org/                                  |
+Amerika |S4xEvents                                      |https://s4xevents.com/                                 |
+Amerika |ICS Cyber Security Conference                  |https://www.icscybersecurityconference.com/            |
+Singapur|ICS Cyber Security Conference                  |https://www.icscybersecurityconference.com/            |
+Değişken|CIPRE                                          |https://www.cipre-expo.com/                            |
+--------|-----------------------------------------------|-------------------------------------------------------|
 
-##Ekosistemler/Ecosystems
+## Ekosistemler/Ecosystems
 
 Ülke    |Ekosistem                                      |Web Sayfası                                                  |
 --------|-----------------------------------------------|-------------------------------------------------------------|
@@ -41,7 +40,7 @@ Küresel |ISA Global Cybersecurity Alliance              |https://isaautomation.
 Küresel |Charter of Trust                               |https://www.charteroftrust.com/                              |
 
 
-##Standartlar & Kılavuzlar / Standards & Guidelines
+## Standartlar & Kılavuzlar / Standards & Guidelines
 
 Kuruluş |Standart                                               |Bağlantı                                                                                         |
 --------|-------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -57,25 +56,31 @@ NIST    |Cybersecurity Framework Manufacturing Profile          |https://www.nis
 NIST    |Energy Sector Asset Management                         | https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-23.pdf                     |
 Energy Gov|Electritcy Subsector Cybersecurity Capability Maturity Model | https://www.energy.gov/sites/prod/files/2014/02/f7/ES-C2M2-v1-1-Feb2014.pdf           |
 Energy Gov| Oil and Natural Gas Subsector Cybersecurity Capability Maturity Model | https://www.energy.gov/sites/prod/files/2014/03/f13/ONG-C2M2-v1-1_cor.pdf   |
+NIST | Behavioral Anomaly Detection in ICS | https://csrc.nist.gov/publications/detail/nistir/8219/draft
+
+
+## Tatbikatlar/Exercies
+
+Ülke          |Ekosistem                                      |Web Sayfası                                                  |
+--------------|-----------------------------------------------|-------------------------------------------------------------|
+Kuzey Amerika |GridEX                                         |https://www.nerc.com/pa/CI/CIPOutreach/Pages/GridEx.aspx     | 
+Küresel       |Locked Shields                                 |https://ccdcoe.org/exercises/locked-shields/                 | 
 
 
 
+## Bilgi Paylaşım Toplulukları / ISACs
+
+Ülke/Bölge   |Açıklama                                                    |Web Sayfası                                                  |
+-------------|------------------------------------------------------------|-------------------------------------------------------------|
+E-ISAC       |Electricity Information Sharing and Analysis Center         |https://www.eisac.com/                                       | 
+EE-ISAC      |European Energy Information Sharing & Analysis Centre       |https://www.ee-isac.eu/                                      | 
+Water-ISAC   |Water Information Sharing and Analysis Center               |https://www.waterisac.org/                                   |
+ONG-ISAC     |Oil and Natural Gas Information Sharing and Analysis Center |https://ongisac.org/
 
 
-ISACS
+## Ücretsiz Eğitimler / Free Trainings
 
 
-E-Learning
-
-
-
-Tatbikatlar
-
-
-
-EE-ISAC
-ICS Village
-IOT Village
 
 
 Kılavuzlar/Guidelines
@@ -119,7 +124,7 @@ Saldırı Araçları/Offensive Tools
 
 Savunma Araçları/Defensensive Tools
 
-Referanslar/Kaynaklar
-https://scadahacker.com/library/index.html
-https://github.com/demirelcan/awesome-industrial-control-system-security
+## Referanslar/Kaynaklar
+-[] https://scadahacker.com/library/index.html
+-[] https://github.com/demirelcan/awesome-industrial-control-system-security
 
