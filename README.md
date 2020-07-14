@@ -125,6 +125,6 @@ Saldırı Araçları/Offensive Tools
 Savunma Araçları/Defensensive Tools
 
 ## Referanslar/Kaynaklar
--[] https://scadahacker.com/library/index.html
--[] https://github.com/demirelcan/awesome-industrial-control-system-security
+- [x] https://scadahacker.com/library/index.html
+- [x] https://github.com/demirelcan/awesome-industrial-control-system-security
 
