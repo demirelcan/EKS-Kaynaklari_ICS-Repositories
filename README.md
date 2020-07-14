@@ -11,7 +11,7 @@ Rusya   |Rusya EKS Siber Güvenlik Ekosistemi   |ruscadasec.com        |N/A     
 Brezilya|Brezilya EKS Siber Güvenlik Ekosistemi|scadasecbr.org        |N/A            |https://t.me/scadasecbr     |
 Küresel |ICSVillage                            |icsvillage.com        |@ICS_Village   |N/A                         |
 Küresel |SANS ICS                              |ics.sans.org          |@SANSICS       |N/A                         |
-
+Küresel |SCADASEC                              |http://scadamag.infracritical.com/    |https://groups.io/g/scadasec|
 
 
 ## Konferanslar/Conferences
@@ -68,7 +68,16 @@ Organizasyon   |Web Sayfası                                                    
 ---------------|----------------------------------------------------------------------|
 ICS-CERT       |https://us-cert.cisa.gov/ics/Training-Available-Through-ICS-CERT      |
 IAEA           |https://websso.iaea.org/login/login.fcc                               |
+S4XEvents      |https://onramp.s4xevents.com/login|
 
+
+## Bültenler / Bulletins
+
+Yayıncı           |Web Sayfası                                                           |
+------------------|----------------------------------------------------------------------|
+Dale Peterson     |https://mailchi.mp/f53b1c8c2da0/friday                                |
+eksguvenligi.org  |https://www.eksguvenligi.org/bulten                                   |
+CCI-ES            |cci-es.org                                                            |
 
 
 
@@ -79,7 +88,6 @@ Organizasyon |Konu                                                        |Bağl
 -------------|------------------------------------------------------------|-------------------------------------------------------------|
 SANS         |Secure Architecture for Industrial Control Systems          |https://www.sans.org/reading-room/whitepapers/ICS/secure-architecture-industrial-control-systems-36327|
 SANS         |The Industrial Control System Cyber Kill Chain              |https://www.sans.org/reading-room/whitepapers/ICS/industrial-control-system-cyber-kill-chain-36297
-
 
 
 ## Kitaplar/Books
@@ -137,7 +145,6 @@ NIST | Behavioral Anomaly Detection in ICS | https://csrc.nist.gov/publications/
 ICS- CERT | Seven Strategies to Defend ICSs | https://us-cert.cisa.gov/sites/default/files/documents/Seven%20Steps%20to%20Effectively%20Defend%20Industrial%20Control%20Systems_S508C.pdf |
 ICS-CERT | ICS Defense-in-Depth Strategies | https://us-cert.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf|
 ICS-CERT | ICS-CERT Recommended Practices |https://us-cert.cisa.gov/ics/Recommended-Practices|
-
 
 
 
