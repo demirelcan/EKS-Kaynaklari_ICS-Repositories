@@ -13,6 +13,7 @@ Küresel |ICSVillage                            |icsvillage.com      |@ICS_Villa
 
 
 
+
 ## Konferanslar/Conferences
 
 Ülke    |Konferans                                      |Web Sayfası                                            |
@@ -59,12 +60,14 @@ Energy Gov| Oil and Natural Gas Subsector Cybersecurity Capability Maturity Mode
 NIST | Behavioral Anomaly Detection in ICS | https://csrc.nist.gov/publications/detail/nistir/8219/draft
 
 
+
 ## Tatbikatlar/Exercies
 
 Ülke          |Ekosistem                                      |Web Sayfası                                                  |
 --------------|-----------------------------------------------|-------------------------------------------------------------|
 Kuzey Amerika |GridEX                                         |https://www.nerc.com/pa/CI/CIPOutreach/Pages/GridEx.aspx     | 
 Küresel       |Locked Shields                                 |https://ccdcoe.org/exercises/locked-shields/                 | 
+
 
 
 
