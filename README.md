@@ -80,49 +80,43 @@ ONG-ISAC     |Oil and Natural Gas Information Sharing and Analysis Center |https
 
 ## Ücretsiz Eğitimler / Free Trainings
 
-
-
-
-Kılavuzlar/Guidelines
-
 Kategori    |Kılavuz                                        |Referans                                      |
 ------------|-----------------------------------------------|----------------------------------------------|
 
 
-Kitaplar/Books
+
+
+## Kitaplar/Books
 
 Kategori    |Kitap Adı                                      |Referans                                      |
 ------------|-----------------------------------------------|----------------------------------------------|
 
 
+## Top 10 Twitter Hesapları / Top 10 Twitter Accounts
+
+- [x] @shipulin_anton
+- [x] @digitalbond
+- [x] @PatrickCMiller
+- [x] @RobertMLee
 
 
 
-Eğitimler/Trainings
-
-PCAPS
-
-Standartlar/ Standards
-
-Regülasyonlar/Regulations
-
-Podcastler/Podcasts
-
-Videolar/Videos
-
-Feed'ler/Feeds
 
 
 
-Araştırma Enstitüleri/Research Institues
+## Düzenlenme Aşamasında / In Progress
+- [x] Regülasyonlar/Regulations
+- [x] Podcastler/Podcasts
+- [x] ICS PCAPs
+- [x] Videolar/Videos
+- [x] Feed'ler/Feeds
+- [x] Devlet Destekli Araştırma Projeleri/Goverment Funded Research Projects
+- [x] Saldırı Araçları/Offensive Tools
+- [x] Savunma Araçları/Defensensive Tools
+- [x] Ticari Ürünler/Products
+- [x] Araştırma Enstitüleri/Research Institues
+- [x] Makaleler / Articles
 
-Devlet Destekli Araştırma Projeleri/Goverment Funded Research Projects
-
-Ticari Ürünler/Products
-
-Saldırı Araçları/Offensive Tools
-
-Savunma Araçları/Defensensive Tools
 
 ## Referanslar/Kaynaklar
 - [x] https://scadahacker.com/library/index.html
